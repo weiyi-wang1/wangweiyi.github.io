@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Weiyi's homepage"
 title_separator          : "-"
-name                     : &name "Weiyi"
+name                     : &name "WangWeiyi"
 description              : &description "Ecology PhD student"
 url                      : https://wangweiyi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
