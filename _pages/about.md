@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hello, I'm Weiyi"
+title: "Weiyi's homepage"
 author_profile: true
 redirect_from: 
   - /about/
